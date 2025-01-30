@@ -17,7 +17,7 @@ module "function" {
   environment_variables = {
     NODE_ENV = "production"
   }
-}
+} 
 
 module "gateway" {
   source = "github.com/ludo-hub/td5/scripts/tofu/modules/api-gateway"
