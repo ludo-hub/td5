@@ -1,4 +1,4 @@
-name: Infrastructure Tests
+# name: Infrastructure Tests
 
 on: push
 
